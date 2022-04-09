@@ -2,11 +2,11 @@
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace Swapi
+namespace Swapi.GroupOfClass
 {
     public class Details
     {
-        
+
         [JsonProperty("title")]
         public string Title { get; set; }
 

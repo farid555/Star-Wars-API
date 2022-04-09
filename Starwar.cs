@@ -4,6 +4,7 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using System.IO;
 using System.Linq;
+using Swapi.GroupOfClass;
 
 
 namespace Swapi

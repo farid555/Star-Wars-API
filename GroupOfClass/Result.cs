@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 
 
-namespace Swapi
+namespace Swapi.GroupOfClass
 {
     public class Result
     {
