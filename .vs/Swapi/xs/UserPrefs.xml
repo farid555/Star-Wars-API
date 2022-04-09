@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3123AFEF-1C88-4D2F-9207-BE03D931A5D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Starship.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Starwar.cs" />
+      <File FileName="Details.cs" Line="27" Column="1" />
+      <File FileName="Starship.cs" Line="55" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Swapi" expanded="True" selected="True">
+            <Node name="Swapi" expanded="True">
+              <Node name="Swapi" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Swapi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

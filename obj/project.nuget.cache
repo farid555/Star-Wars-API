@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWq82M7das0MXgJrADLS9uctMItWzDgdWJGpg1ivbrvrQG0NNLtZl6UDdsoc4N06KF41pF7brVNaKUa+jdkM4A==",
+  "success": true,
+  "projectFilePath": "/Users/farid/Desktop/C#/Swapi/Swapi/Swapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/farid/.nuget/packages/consoledump/0.7.0/consoledump.0.7.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.text.json/6.0.2/system.text.json.6.0.2.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
